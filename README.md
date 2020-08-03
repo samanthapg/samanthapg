@@ -2,7 +2,6 @@
 Thanks for visiting my GitHub!
 
 - 🔭 I’m currently working on: Tracing for Distributed Applications as a Research Assitant at the PeacLAB. 
-         
          Link to the project website: https://docclab.cs.tufts.edu/projects/pythia.html
 - 🌱 I’m currently learning about: Front-end development, starting with learning HTML and CSS 
 - 🤔 I’m looking for help with: Back-end skills and working with API's. 
