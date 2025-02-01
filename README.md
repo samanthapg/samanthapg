@@ -1,8 +1,9 @@
 ### Hi there 👋
 Thanks for visiting my GitHub!
 
-- 📫 How to reach me: samanpg@bu.edu or connect with me in LinkedIn: https://www.linkedin.com/in/samanthaputerman/
+- 📫 How to reach me: connect with me in LinkedIn: https://www.linkedin.com/in/samanthaputerman/
 
+Here are a few projects I have contributed to (mostly during my undergrad). 
 <!--
 **samanthapg/samanthapg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
